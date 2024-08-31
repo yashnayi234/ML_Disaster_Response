@@ -18,6 +18,20 @@ This project is part of the Data Scientist Nanodegree and focuses on building a 
     - **Input:** Users can input new messages for classification.
     - **Output:** The model classifies the message into categories and visualizes data.
 
+## Important Library
+* Pandas
+* Numpy
+* NLTK
+* Flask
+* Plotly
+* Sklearn
+* Sqlalchemy
+* Pickle
+* re
+* os
+* warnings
+* Matplotlib
+
 ## Installation Instructions
 
 1. **Clone the Repository:**
