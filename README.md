@@ -53,3 +53,20 @@ Train ML Model:
 Run the Web App:
 
 ```python run.py```
+
+
+### Images
+
+(images/IMG_1.png)
+(images/IMG_2.png)
+(images/IMG_3.png)
+(images/IMG_4.png)
+(images/IMG_5.png)
+(images/IMG_6.png)
+(images/IMG_7.png)
+(images/IMG_8.png)
+(images/IMG_9.png)
+(images/IMG_10.png)
+(images/IMG_11.png)
+(images/IMG_12.png)
+(images/IMG_13.png)
