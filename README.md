@@ -26,22 +26,16 @@ This project is part of the Data Scientist Nanodegree and focuses on building a 
 
 Install Dependencies: Make sure you have Python 3.6+ installed. Install the required libraries:
 
-bash
-Copy code
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
 Run ETL Pipeline:
 
-bash
-Copy code
-python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+
+```python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db```
 Train ML Model:
 
-bash
-Copy code
-python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+
+```python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl```
 Run the Web App:
 
-bash
-Copy code
-cd app
-python run.py
+```python run.py```
